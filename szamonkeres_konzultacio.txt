@@ -1,0 +1,3 @@
+nested class, java, beágyazott osztály
+string array sort java
+java List, ArrayList
