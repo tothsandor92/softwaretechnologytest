@@ -1,0 +1,30 @@
+package vizsga_gyakorlat_ST_exam_teljes;
+/*
+ * Készítsen saját csomagban egy osztályt, ami egy szoftverfejlesztõ alkalmazottat reprezentál.
+- Adattagjai: név (string), fizetés (int), munkatapasztalat (évek száma) (int), beosztás (felsorolás).
+- A beosztás beáhyazott felsorolás típusu: JUNIOR, SENIOR, MANAGER.
+(6 pont)
+- Lehessen egy alkalmazottat iniciálni a 4 adattag megadásával. (3 pont)
+- Legyen a toString() felüldefiniálva úgy, hogy mind a 4 adat legyen a sztringben, (3 pont)
+- Legyenek getter metódusok az adattagok értékének lekérdezésére. (3 pont)
+-  Legyen beágyazott osztálya, amely a fietés és a munkatapasztalat alapján összehasonlít két
+embert (azt tartják jobb fejlesztõnek, akinél nagyobb a fizetés/munkatapasztalat arány). (5 pont)
+
+Készítsen osztályt ugyanebben a csomagban, amelyben;
+- Tetszõleges számú szoftverfejlesztõt tud tárolni. (3 pont)
+- Lehet felvinni új szoftverfejlesztõt, de nem lehet két azonos nevû, (3 pont)
+- Le lehet kérdezni a szoftverfejlesztõk számát, (2 pont)
+- Le lehet kérdezni egy megadott nevû szofverfejlesztõt, (2 pont)
+- Ki lehet törölni egy megadott nevû szoftverfejlesztõt, (2 pont)
+- Listázni lehet a szofverfejlesztõket név szerint rendezve, (3 pont)
+- Le lehet kérdezni a legjobb szofverfejlesztõt (akinél a legmagasabb a fizetés/munkatapasztalat).
+(2 pont)
+- Listázni lehet a SENIOR felhasználókat. (3 pont)
+
+Készítsen kipróbáló osztályt másik csomagban, amelyben beolvassa fájlból a szoftverfejlesztõket,
+(4 pont)
+Listázza ki a szoftverfejlesztõket név szerint rendezve (2 pont), majd külön a SENIOR
+szoftverfejlesztõket (2 pont), és végül a legjobb szoftverfejlesztõ adatait (2 pont).*/
+public class FeladatLeiras {
+
+}
