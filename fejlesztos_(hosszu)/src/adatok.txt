@@ -1,0 +1,4 @@
+Bogdándy Bence,200,6,SENIOR
+Tompa Tamás,200,6,SENIOR
+Tóth Sánor,100,2,JUNIOR
+Mileff Péter,1000,8,MANAGER
